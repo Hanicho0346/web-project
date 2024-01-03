@@ -1,0 +1,21 @@
+body{
+  padding:50px;
+ margin: 0;
+ text-align: center;
+
+}
+.two{
+  color: lightblue;
+
+}
+.one{
+  color: lightblue;
+  margin-left: 0;
+  margin-right:5px ;
+}
+.zero{
+  color: lightblue;
+}
+.six{
+  color: lightblue;
+}
